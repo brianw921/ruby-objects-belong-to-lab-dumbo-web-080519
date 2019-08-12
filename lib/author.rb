@@ -6,6 +6,6 @@ class Author
   end
 
   def name=(name)
-    name
+    @name
   end
 end
