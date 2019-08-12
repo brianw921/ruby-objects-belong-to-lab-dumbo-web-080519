@@ -1,6 +1,6 @@
-require_relative "author"
+
 class Post
 
-  attr_accessor :author
+  attr_accessor :author, :name
 
 end
