@@ -2,11 +2,11 @@ class Author
 
   # attr_accessor :name
 
-  def author
-    @author
+  def name
+    @name
   end
 
-  def author=(author)
-    @author
+  def name=(name)
+    @name
   end
 end
