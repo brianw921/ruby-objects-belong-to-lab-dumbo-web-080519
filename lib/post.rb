@@ -1,6 +1,6 @@
 require_relative "author"
 class Post
 
-  attr_reader :author
+  attr_accessor :author
 
 end
